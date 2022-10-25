@@ -1,4 +1,4 @@
-# Cervical-Cancer-Prediction
+# Cervical Cancer Prediction
 
 # Project Objective:
 Predicting the detection of Cervical Cancer in Women based on attributes and when Biopsy is conducted on them.
