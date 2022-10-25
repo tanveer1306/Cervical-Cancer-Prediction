@@ -1,9 +1,5 @@
-#The following Models predicts the Predictive Proabability of a Woman Having Cervical Cancer when Biopsy is
-#is conducted on them
+#The following Models predicts the Predictive Proabability of a Woman Having Cervical Cancer when Biopsy is conducted on them
 #############################################################################################################3
-
-
-setwd("C:/Users/tanve/OneDrive/Documents/Semester 2/Data Mining and Predictive Analytics/Group Project")
 
 
 #############################Logistic Regression Model#######################################################
