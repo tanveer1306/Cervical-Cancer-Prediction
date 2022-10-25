@@ -1,5 +1,7 @@
 # Cervical Cancer Prediction
 
+Fell Free to use the Clean and Preprocessed Dataset Posted :-)
+
 # Project Objective:
 Predicting the detection of Cervical Cancer in Women based on attributes and when Biopsy is conducted on them.
 
